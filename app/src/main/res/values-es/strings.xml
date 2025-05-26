@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">autoclicker_game</string>
+
+    <string name="clickable_image">Objeto clicable</string>
+    <string name="upgrade_button">Mejorar clic</string>
+
+    <string name="auto_click">Auto clic cada 5s</string>
+    <string name="points">Puntos: 0</string>
+    <string name="reset_button">Reinicio</string>
+</resources>
